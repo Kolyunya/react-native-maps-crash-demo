@@ -15,7 +15,7 @@ export default function App() {
           latitude: 0,
           longitude: 0,
         }}
-        icon = { require('./assets/marker.png') }
+        image = { require('./assets/marker.png') }
       />
     </MapView>
   );
